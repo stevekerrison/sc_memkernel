@@ -30,4 +30,4 @@ Support
 There is no support, but e-mail the maintainer if you have any questions.
 
 If you want to know more about exception handling, check out this thread on
-xcore.com: https://www.xcore.com/forum/viewtopic.php?f=10&t=1469
+xcore.com: https://www.xcore.com/forum/viewtopic.php?f=26&t=626
