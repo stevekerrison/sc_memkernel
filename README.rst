@@ -4,7 +4,7 @@ PGAS style memory system for XS1
 :Latest release: 2013.09
 :Maintainer: Steve Kerrison (github: stevekerrison)
 :Description: A small kernel that extends the memory space to allow remote
-memory access.
+  memory access.
 :Status: Proof of concept, incomplete.
 
 Key Features
@@ -22,7 +22,7 @@ Known Issues
  * Probably a bit crashy too as its sanity checking is fairly fast and loose.
  * It's slow... instructions are decoded in software because no MMU!
  * Depending on the translation algorithm, the address space may not be
- contiguous.
+  contiguous.
 
 Support
 =======
