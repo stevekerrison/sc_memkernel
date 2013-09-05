@@ -22,7 +22,7 @@ Known Issues
  * Probably a bit crashy too as its sanity checking is fairly fast and loose.
  * It's slow... instructions are decoded in software because no MMU!
  * Depending on the translation algorithm, the address space may not be
-  contiguous.
+   contiguous.
 
 Support
 =======
